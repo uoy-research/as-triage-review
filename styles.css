@@ -33,3 +33,73 @@ a {
   margin:20px;
   height: 250px;
 }
+
+/* Color and Images for Project Containers  */
+
+.project-1 {
+  background: white;
+  background-size: cover;
+}
+
+.project-2 {
+  background-color:white;
+}
+
+.project-3 {
+  background-color:#209BFF;
+}
+
+.project-4 {
+  background-color:#112d4e;
+}
+
+.project-5 {
+  background-color:#F9F7F7;
+}
+
+.project-6 {
+  background-color:#209BFF;
+}
+
+.project-7 {
+    background-color:#ffffff00;
+}
+
+.project-8 {
+  background: white;
+  background-size: cover;
+}
+
+.project-text {
+  text-align:center;
+  font-size:50px;
+}
+
+/* Hover classes for individual project boxes */
+.project-1:hover {
+  background-color:#FEDE00;
+}
+
+.project-2:hover {
+  background-color:#FEDE00;
+}
+
+.project-3:hover {
+   background-color: #FEDE00;
+}
+
+.project-4:hover {
+   background-color: #FEDE00;
+}
+
+.project-5:hover {
+   background-color: #FEDE00;
+}
+
+.project-6:hover {
+   background-color: #FEDE00;
+}
+
+.project-7:hover {
+   background-color: #FEDE00;
+}
