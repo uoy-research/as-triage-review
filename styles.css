@@ -2,16 +2,26 @@ body {
 	margin: 0;
 	background-color: #99ccff;
 	font-family: "Helvetica", Sans-Serif;
-	text-align: center;
+	text-align: left;
 }
 
 a {
 	color: yellow;
 }
 
+img {
+	width:70%;
+	height:auto;
+	border: solid 2px #CCC;
+}
+
 /* Include padding and border in total box size */
 * {
 	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
 }
 
 /*  Section 3  */
@@ -22,6 +32,7 @@ a {
   margin-top: 150px;
   margin-bottom:70px;
   font-size: 35px;
+  border: solid 2px #CCC;
 }
 
 #toc_container {
