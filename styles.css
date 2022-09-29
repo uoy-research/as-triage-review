@@ -1,5 +1,35 @@
 body {
 	margin: 0;
-	background: blue;
+	background-color: #99ccff;
+	font-family: "Helvetica", Sans-Serif;
 	text-align: center;
+}
+
+a {
+	color: yellow;
+}
+
+/* Include padding and border in total box size */
+* {
+	box-sizing: border-box;
+}
+
+/*  Section 3  */
+
+.section-heading {
+  text-align:center;
+  color:#102C4E;
+  margin-top: 150px;
+  margin-bottom:70px;
+  font-size: 35px;
+}
+
+/* Sizing for Project Containers  */
+
+.column-4 {
+  float: left;
+  width: 21%;
+  padding: 10px;
+  margin:20px;
+  height: 250px;
 }
