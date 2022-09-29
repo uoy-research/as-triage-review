@@ -6,13 +6,15 @@ body {
 }
 
 a {
-	color: yellow;
+	color: blue;
 }
 
 img {
-	width:70%;
+	width:80%;
 	height:auto;
 	border: solid 2px #CCC;
+	align-self: center;
+	object-fit: contain;
 }
 
 /* Include padding and border in total box size */
@@ -41,7 +43,7 @@ h1 {
     display: table;
     font-size: 95%;
     margin-bottom: 1em;
-    padding: 20px;
+    padding: 5px;
     width: auto;
 }
 
