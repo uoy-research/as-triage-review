@@ -1,0 +1,67 @@
+Author,Title,Admission,Medical Specialty Admission,ICU Admission,Neuroscience ICU Admission,Mortality,Reattendance,Location of Admission,STEMI,Emergency procedure,Ventilator use,Cardiac arrest,Diagnosis,Treatment,Sepsis Prediction,Adverse outcomes,Bacteremia,COVID 19,Stroke,Myocardial Infarction,Septic shock,Pnuemonia,Mistriage,Cardiopulmonary Arrest,Ressusitation,
+Araz et al,Predictive analytics for hospital admissions from the emergency department using triage information,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Arnaud et al,Deep Learning to Predict Hospitalization at Triage: Integration of Structured Data and Unstructured Text,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Arnaud et al,NLP-Based Prediction of Medical Specialties at Hospital Admission Using Triage Notes,1,1,,,,,,,1,,,,,,,,,,,,,,,,3
+Chan et al,Performance of a new symptom checker in patient triage: Canadian cohort study,,,,,,,,,,,,1,1,,,,,,,,,,,,2
+Chen et al,Real-time interactive artificial intelligence of things-based prediction for adverse outcomes in adult patients with pneumonia in the emergency department.,,,,,,,,,,,,,,,1,,,,,,,,,,1
+Chiew et al,Heart rate variability based machine learning models for risk prediction of suspected sepsis patients in the emergency department,,,,,1,,,,,,,,,,,,,,,,,,,,1
+Chmiel et al,Using explainable machine learning to identify patients at risk of reattendance at discharge from emergency departments.,,,,,,1,,,,,,,,,,,,,,,,,,,1
+Choi et al,Prediction of bacteremia at the emergency department during triage and disposition stages using machine learning models,,,,,,,,,,,,,,,,1,,,,,,,,,1
+De Hond et al,Machine learning for developing a prediction model of hospital admission of emergency department patients: Hype or hope?.,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Deif et al,Automated Triage System for Intensive Care Admissions during the COVID-19 Pandemic Using Hybrid XGBoost-AHP Approach,,,1,,,,,,,,,,,,,,,,,,,,,,1
+El-Bouri et al,Hospital Admission Location Prediction via Deep Interpretable Networks for the Year-Round Improvement of Emergency Patient Care,,,,,,,1,,,,,,,,,,,,,,,,,,1
+Feng et al,A novel artificial intelligence-assisted triage tool to aid in the diagnosis of suspected COVID-19 pneumonia cases in fever clinics,,,,,,,,,,,,,,,,,,,,,1,,,,1
+Fenn et al,Development and Validation of Machine Learning Models to Predict Admission From Emergency Department to Inpatient and Intensive Care Units.,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Fernandes et al,Predicting Intensive Care Unit admission among patients presenting to the emergency department using machine learning and natural language processing.,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Fernandes et al,Risk of mortality and cardiopulmonary arrest in critical patients presenting to the emergency department using machine learning and natural language processing,,,,,1,,,,,,,,,,,,,,,,,,1,,2
+Garrafa et al,"Early prediction of in-hospital death of COVID-19 patients: A machine-learning model based on age, blood analyses, and chest x-ray score",,,,,1,,,,,,,,,,,,,,,,,,,,1
+Goto et al,Machine learning approaches for predicting disposition of asthma and COPD exacerbations in the ED.,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Goto et al,Machine learning–based prediction of clinical outcomes for children during emergency department triage,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Graham et al,Using Data Mining to Predict Hospital Admissions from the Emergency Department,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Halpern et al,Electronic medical record phenotyping using the anchor and learn framework,,,,,,,,,,,,,1,,,,,,,,,,,,1
+Hong et al,Predicting hospital admission at emergency department triage using machine learning,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Horng et al,Creating an automated trigger for sepsis clinical decision support at emergency department triage using machine learning.,,,,,,,,,,,,,,1,,,,,,,,,,,1
+Hwang et al,Machine learning-based prediction of critical illness in children visiting the emergency department.,1,,1,,1,,,,,,,,,,,,,,,,,,,1,4
+Joseph et al,Deep‐learning approaches to identify critically Ill patients at emergency department triage using limited information,,,1,,,,,,,,,,,,,,,,,,,,,,1
+Kijpaisaratana et al,Machine learning algorithms for early sepsis detection in the emergency department: A retrospective study,,,,,,,,,,,,,,1,,,,,,,,,,,1
+Kim et al,A Retrospective Clinical Evaluation of an Artificial Intelligence Screening Method for Early Detection of STEMI in the Emergency Department.,,,,,,,,1,,,,,,,,,,,,,,,,,1
+Kim et al,Machine learning for prediction of septic shock at initial triage in emergency department,,,,,,,,,,,,,,1,,,,,,,,,,,1
+Klang et al,"Predicting adult neuroscience intensive care unit admission from emergency department triage using a retrospective, tabular-free text machine learning approach",,,,1,,,,,,,,,,,,,,,,,,,,,1
+Klug et al,A Gradient Boosting Machine Learning Model for Predicting Early Mortality in the Emergency Department Triage: Devising a Nine-Point Triage Score.,,,,,1,,,,,,,,,,,,,,,,,,,,1
+Kwon et al,Validation of deep-learning-based triage and acuity score using a large national dataset,1,,1,,1,,,,,,,,,,,,,,,,,,,,3
+Lee et al,Chief complaint classification with recurrent neural networks,,,,,,,,,,,,1,,,,,,,,,,,,,1
+Lee et al,Prediction of hospitalization using artificial intelligence for urgent patients in the emergency department,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Lee et al,Predicting outcomes after trauma: Prognostic model development based on admission features through machine learning.,,,,,1,,,,,,,,,,,,,,,,,,,,1
+Leung et al,A Novel Interpretable Deep-Learning-Based System for Triage Prediction in the Emergency Department: A Prospective Study,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Levin et al,Machine-Learning-Based Electronic Triage More Accurately Differentiates Patients With Respect to Clinical Outcomes Compared With the Emergency Severity Index,1,,1,,,,,,1,,,,,,,,,,,,,,,,3
+Li et al,Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Lin et al,Machine learning model to identify sepsis patients in the emergency department: Algorithm development and validation,,,,,,,,,,,,,,1,,,,,,,,,,,1
+Liu et al,Development and validation of a practical machine-learning triage algorithm for the detection of patients in need of critical care in the emergency department.,,,,,,,,,,,,,,,,,,,,,,1,,,1
+Liu et al,Prediction of adverse cardiac events in emergency department patients with chest pain using machine learning for variable selection,,,,,,,,,,,,,,,1,,,,,,,,,,1
+Lorenzoni et al,Analysis of Unstructured Text-Based Data Using Machine Learning Techniques:  The Case of Pediatric Emergency Department Records in Nicaragua,,,,,,,,,,,,1,,,,,,,,,,,,,1
+Lupei et al,A 12-hospital prospective evaluation of a clinical decision support prognostic algorithm based on logistic regression as a form of machine learning to facilitate decision making for patients with suspected COVID-19.,,,1,,1,,,,,1,,,,,,,,,,,,,,,3
+Michalowski et al,Development of a decision algorithm to support emergency triage of scrotal pain and its implementation in the met system,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Nanda et al,Semi-automated text mining strategies for identifying rare causes of injuries from emergency room triage data,,,,,,,,,,,,1,,,,,,,,,,,,,1
+Olszewski et al,Bayesian Classification of Triage Diagnoses for the Early Detection of Epidemics.,,,,,,,,,,,,1,,,,,,,,,,,,,1
+Parker et al,Predicting hospital admission at the emergency department triage: a novel prediction model,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Patel et al,A Machine Learning Approach to Predicting Need for Hospitalization for Pediatric Asthma Exacerbation at the Time of Emergency Department Triage.,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Pathan et al,Qatar Prediction Rule Using ED Indicators of COVID-19 at Triage,,,,,,,,,,,,,,,,,1,,,,,,,,1
+Raita et al,Emergency department triage prediction of clinical outcomes using machine learning models.,1,,1,,,,,,,,,,,,,,,,,,,,,,2
+Rendell et al,The Sydney Triage to Admission Risk Tool (START2) using machine learning techniques to support disposition decision-making,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Roquette et al,Prediction of admission in pediatric emergency department with deep neural networks and triage textual data,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Sax et al,Use of Machine Learning to Develop a Risk-Stratification Tool for Emergency Department Patients With Acute Heart Failure.,,,,,,,,,,,,,,,1,,,,,,,,,,1
+Sills et al,Predicting hospitalization of pediatric asthma patients in emergency departments using machine learning,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Soltan et al,Rapid triage for COVID-19 using routine clinical data for patients attending hospital: development and prospective validation of an artificial intelligence screening test,,,,,,,,,,,,,,,,,1,,,,,,,,1
+Soltan et al,Real-world evaluation of rapid and laboratory-free COVID-19 triage for emergency care: external validation and pilot deployment of artificial intelligence driven screening,,,,,,,,,,,,,,,,,1,,,,,,,,1
+Stella et al,Prediction of Resuscitation for Pediatric Sepsis from Data Available at Triage,,,,,,,,,,,,,,,1,,,,,,,,,,1
+Sterling et al,Prediction of emergency department patient disposition based on natural language processing of triage notes,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Sung et al,Developing a stroke alert trigger for clinical decision support at emergency triage using machine learning,,,,,,,,,,,,,,,,,,1,,,,,,,1
+Tahayori et al,Advanced natural language processing technique to predict patient disposition based on emergency triage notes,1,,,,,,,,,,,,,,,,,,,,,,,,1
+Than et al,Machine Learning to Predict the Likelihood of Acute Myocardial Infarction.,,,,,,,,,,,,,,,,,,,1,,,,,,1
+Wu et al,A machine learning model to predict critical care outcomes in patient with chest pain visiting the emergency department.,,,1,,1,,,,,,1,,,,,,,,,,,,,,3
+Yao et al,A Novel Deep Learning–Based System for Triage in the Emergency Department Using Electronic Medical Records: Retrospective Cohort Study,1,,1,,1,,,,,,,,,,,,,,,,,,,,3
+Yu et al,Machine Learning and Initial Nursing Assessment-Based Triage System for Emergency Department.,,,1,,1,,,,,,,,,,,,,,,,,,,,2
+Yu et al,Triage vital signs predict in-hospital mortality among emergency department patients with acute poisoning: a case control study,,,,,1,,,,,,,,,,,,,,,,,,,,1
+Yun et al,"Enhancement in Performance of Septic Shock Prediction Using National Early Warning Score, Initial Triage Information, and Machine Learning Analysis",,,,,,,,,,,,,,,,,,,,1,,,,,1
+Yun et al,Prediction of critical care outcome for adult patients presenting to emergency department using initial triage information: An XGBoost algorithm analysis,,,1,,1,,,,,,,,,,,,,,,,,,,,2
+Zhu et al,Deep-learning artificial intelligence analysis of clinical variables predicts mortality in COVID-19 patients.,,,,,1,,,,,,,,,,,,,,,,,,,,1
