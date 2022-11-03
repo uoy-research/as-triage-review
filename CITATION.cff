@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, or the data collected in the course of this survey, please cite it as below, and additionally, cite the associated paper"
+authors:
+- family-names: "Lyons, Tunde, Townsend, Picardi, Calinescu, Hodge, Habli"
+  given-names: "Billy, Ashaolu, Beverley, Chiara, Radu, Victoria, Ibrahim"
+  orcid: "https://orcid.org/0000-0002-9425-6845"
+title: "as-triage-review"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-11-01
+url: "https://github.com/uoy-research/as-triage-review"

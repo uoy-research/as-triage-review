@@ -1,0 +1,48 @@
+Technology,Count,,Hardware,Hardware Count,,Author,Title,,Best
+Random Forest,37,,IoT Hardware Sensors,1,,Araz et al,Predictive analytics for hospital admissions from the emergency department using triage information,Comparative,XGBoost
+Logistic Regression,29,,Sensors,1,,Caicedo-Torres et al,A machine learning model for triage in lean pediatric emergency departments,Comparative,ANN
+XGBoost,24,,Digital Camera,1,,Chiew et al,Heart rate variability based machine learning models for risk prediction of suspected sepsis patients in the emergency department,Comparative,GradBoost
+NLP,21,,Wearable IoT Sensors,1,,Choi et al,Machine Learning-Based Prediction of Korean Triage and Acuity Scale Level in Emergency Department Patients,Comparative,Multiple
+ANN,17,,Robot hand and sensor,1,,Choi et al,Prediction of bacteremia at the emergency department during triage and disposition stages using machine learning models,Comparative,XGBoost
+SVM,16,,Robot - NAO,1,,De Hond et al,Machine learning for developing a prediction model of hospital admission of emergency department patients: Hype or hope?.,Comparative,XGBoost
+Gradient Boost,16,,,,,Deif et al,Automated Triage System for Intensive Care Admissions during the COVID-19 Pandemic Using Hybrid XGBoost-AHP Approach,Comparative,XGBoost
+Decision Tree,13,,,,,Fernandes et al,Predicting Intensive Care Unit admission among patients presenting to the emergency department using machine learning and natural language processing.,Comparative,Logistic Regression+NLP
+DNN,14,,,,,Fernandes et al,Risk of mortality and cardiopulmonary arrest in critical patients presenting to the emergency department using machine learning and natural language processing,Comparative,XGBoost+NLP
+LASSO,8,,,,,Goto et al,Machine learning approaches for predicting disposition of asthma and COPD exacerbations in the ED.,Comparative,No claim
+KNN,6,,,,,Goto et al,Machine learning–based prediction of clinical outcomes for children during emergency department triage,Comparative,No claim
+Expert System,7,,,,,Graham et al,Using Data Mining to Predict Hospital Admissions from the Emergency Department,Comparative,GradBoost
+Naive Bayes,9,,,,,Hong et al,Predicting hospital admission at emergency department triage using machine learning,Comparative,XGBoost
+Hardware,6,,,,,Horng et al,Creating an automated trigger for sepsis clinical decision support at emergency department triage using machine learning.,Comparative + Combined,SVM+NLP
+CNN,5,,,,,Jiang et al,Machine learning-based models to support decision-making in emergency department triage for patients with suspected cardiovascular disease,Comparative,XGBoost
+Fuzzy Classifier,4,,,,,Kijpaisaratana et al,Machine learning algorithms for early sepsis detection in the emergency department: A retrospective study,Comparative,Random Forest
+AdaBoost,2,,,,,Kwon et al,Validation of deep-learning-based triage and acuity score using a large national dataset,Comparative,DNN
+Clustering,1,,,,,Lee et al,Chief complaint classification with recurrent neural networks,Comparative,GRU+NLP
+Gated Recurrent Unit,1,,,,,Lee et al,Predicting outcomes after trauma: Prognostic model development based on admission features through machine learning.,Comparative,XGBoost
+Bayesian Network,2,,,,,Li et al,Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization,Comprative,SVM+NLP
+ElasticNet,2,,,,,Liu et al,Development and validation of a practical machine-learning triage algorithm for the detection of patients in need of critical care in the emergency department.,Comparative,GradBoost+SHAP
+ANFIS,1,,,,,Nanda et al,Semi-automated text mining strategies for identifying rare causes of injuries from emergency room triage data,Comparative,Logistic regression+NLP
+Multivariate Logistic Regression,1,,,,,Olivia et al,Machine learning based electronic triage for emergency department,Comparative,Multiple
+Reinforcement Learning,1,,,,,Raita et al,Emergency department triage prediction of clinical outcomes using machine learning models.,Comparative,DNN
+Association Rule Mining,1,,,,,Rendell et al,The Sydney Triage to Admission Risk Tool (START2) using machine learning techniques to support disposition decision-making,Comparative,Multiple
+Random undersampling boosting,1,,,,,Roquette et al,Prediction of admission in pediatric emergency department with deep neural networks and triage textual data,Comparative,DNN+GradBoost+NLP
+LSTM,2,,,,,Sax et al,Use of Machine Learning to Develop a Risk-Stratification Tool for Emergency Department Patients With Acute Heart Failure.,Comparative,XGBoost
+Anchor Variables,1,,,,,Soltan et al,Rapid triage for COVID-19 using routine clinical data for patients attending hospital: development and prospective validation of an artificial intelligence screening test,Comparative,XGBoost
+Multinomial Logistic Regression,2,,,,,Stella et al,Prediction of Resuscitation for Pediatric Sepsis from Data Available at Triage,Comparative,XGBoost+NLP
+Multivariate Adaptive Regression Splines,1,,,,,Sung et al,Developing a stroke alert trigger for clinical decision support at emergency triage using machine learning,Comparative,Multiple
+K Means Clustering,2,,,,,Tsai et al,Development and Validation of an Artificial Intelligence Electrocardiogram Recommendation System in the Emergency Department,Comparative,XGBoost
+Quadratic Discriminant Analysis,1,,,,,Wang et al,Construct an Optimal Triage Prediction Model: A Case Study of the Emergency Department of a Teaching Hospital in Taiwan,Comparative,SVM + GA
+TabNet,1,,,,,Wolff et a,Setting up standards: A methodological proposal for pediatric Triage machine learning model construction based on clinical outcomes,Comparative,Naive Bayes
+Linear Regression,2,,,,,Yao et al,A Novel Deep Learning–Based System for Triage in the Emergency Department Using Electronic Medical Records: Retrospective Cohort Study,Compatative/Combined,CNN + NLP
+Non-negative Matrix Factorisation,1,,,,,Yoo et al,DeepTriager: A Neural Attention Model forEmergency Triage with Electronic Health Records,Comparative/Combined,DeepTriager + NLP
+SHAP,1,,,,,Yu et al,Machine Learning and Initial Nursing Assessment-Based Triage System for Emergency Department.,Comparative,Multiple
+Rough Set Theory,1,,,,,Yun et al,"Enhancement in Performance of Septic Shock Prediction Using National Early Warning Score, Initial Triage Information, and Machine Learning Analysis",Comparative,XGBoost
+RNN,1,,,,,Zmiri et al,Classification of patients by severity grades during triage in the emergency department using data mining methods,Comparative,Inconclusive
+DeepTriager,1,,,,,,,,
+CART,1,,,,,,,,
+Genetic Algorithm,1,,,,,,,,
+Ward's Clustering,1,,,,,,,,
+CatBoost,1,,,,,,,,
+Principal Component Analysis,1,,,,,,,,
+Bayesian Classifier,1,,,,,,,,
+Multivariable Logistic Regression,1,,,,,,,,
+C4.5 Data Mining,1,,,,,,,,

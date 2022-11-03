@@ -3,10 +3,17 @@ body {
 	background-color: #99ccff;
 	font-family: "Helvetica", Sans-Serif;
 	text-align: left;
+    text-indent: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 a {
 	color: blue;
+}
+
+p {
+    text-align: left;
 }
 
 img {
@@ -15,6 +22,10 @@ img {
 	border: solid 2px #CCC;
 	align-self: center;
 	object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    place-items: center;
 }
 
 /* Include padding and border in total box size */
@@ -23,6 +34,18 @@ img {
 }
 
 h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
 	text-align: center;
 }
 
@@ -45,6 +68,19 @@ h1 {
     margin-bottom: 1em;
     padding: 5px;
     width: auto;
+    text-align: left;
+}
+
+#li {
+    padding-left: 40px;
+    text-align: left;
+}
+
+#ul {
+    padding: 0.5em 0 0 20px;
+    margin: 0 2em;
+    text-align: left;
+
 }
 
 .toc_title {
@@ -54,4 +90,5 @@ h1 {
 
 #toc_container li, #toc_container ul, #toc_container ul li{
     list-style: outside none none !important;
+    text-align: left;
 }

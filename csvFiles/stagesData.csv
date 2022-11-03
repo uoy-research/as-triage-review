@@ -1,0 +1,97 @@
+Analysis - Stages,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Stage of Triage,,,,,,If classification,
+Stage,Category,Specific 1,Specific 2,Specific 3,Specific 4,Number,,Author,Title,Year,0,1,2,3,4,5,which system,
+Stage 0,Information provision,,,,,1,,Araz et al,Predictive analytics for hospital admissions from the emergency department using triage information,2019,,,,,,Admission,,1
+Stage 1,Diagnostic,Estimate pain,,,,1,,Arnaud et al,Deep Learning to Predict Hospitalization at Triage: Integration of Structured Data and Unstructured Text,2020,,,,,,Admission,,1
+Stage 2,Classification,Classification,,,,21,,Arnaud et al,NLP-Based Prediction of Medical Specialties at Hospital Admission Using Triage Notes,2021,,,,,,Disposition,,1
+Stage 2,Classification,Severity Rank,,,,1,,Aziz et al,Initialization of adaptive neuro-fuzzy inference system using fuzzy clustering in predicting primary triage category,2012,,,Classification,Classification,,,OPTS,2
+Stage 2,Classification,Acuity Score,,,,1,,Cabral et al,Data acquisition process for an intelligent decision support in gynecology and obstetrics emergency triage,2011,,,Classification,,,,Novel,1
+Stage 2,Diagnostic,Estimate pain,,,,1,,Caicedo-Torres et al,A machine learning model for triage in lean pediatric emergency departments,2016,,,,Classification,,,Fast/Regular,1
+Stage 2,Filtering,Rare cases,,,,1,,Chan et al,Performance of a new symptom checker in patient triage: Canadian cohort study,2021,,,Classification,,,Diagnosis and Treatment,4 tier,2
+Stage 2,Data collection,Symptoms and history,,,,1,,Chen et al,Real-time interactive artificial intelligence of things-based prediction for adverse outcomes in adult patients with pneumonia in the emergency department.,2021,,,,,,Predicting adverse outcomes,,1
+Stage 3,Classification,Classification,,,,19,,Chiew et al,Heart rate variability based machine learning models for risk prediction of suspected sepsis patients in the emergency department,2019,,,,,,Predicting in hospital mortality,,1
+Stage 3,Classification,Severity rank,,,,1,,Chmiel et al,Using explainable machine learning to identify patients at risk of reattendance at discharge from emergency departments.,2021,,,,,,Predict reattendance,,1
+Stage 3,Classification,Acuity score,,,,1,,Choi et al,Machine Learning-Based Prediction of Korean Triage and Acuity Scale Level in Emergency Department Patients,2019,,,Classification,Classification,,,KTAS,2
+Stage 3,Data Collection,Collecting vitals,,,,2,,Choi et al,Prediction of bacteremia at the emergency department during triage and disposition stages using machine learning models,2022,,,,,,Predicting bacteremia,,1
+Stage 4,Monitoring,Monitoring,,,,4,,Chong et al,Development of automated triage system for emergency medical service,2016,,,Classification,Classification,Monitoring,,OPTS,3
+Stage 4,Investigation,Recommend electrocardiagram,,,,1,,Cremeens et al,FMTS: A fuzzy implementation of the Manchester triage system,2014,,,Classification,Classification,,,MTS,2
+Stage 4,Investigation,Recommend head CT scan,,,,1,,De Hond et al,Machine learning for developing a prediction model of hospital admission of emergency department patients: Hype or hope?.,2021,,,,,,Preddicting Admission,,1
+Stage 4,Analysis,,,,,1,,Deif et al,Automated Triage System for Intensive Care Admissions during the COVID-19 Pandemic Using Hybrid XGBoost-AHP Approach,2021,,,Severity Rank,Severity Rank,,ICU Admission,Simple Ranking,3
+Stage 5,Disposition,Admission,,,,15,,El-Bouri et al,Hospital Admission Location Prediction via Deep Interpretable Networks for the Year-Round Improvement of Emergency Patient Care,2021,,,,,,Predicting location of admission,,1
+Stage 5,Disposition,Disposition,,,,7,,Farahmand et al,Artificial Intelligence-Based Triage for Patients with Acute Abdominal Pain in Emergency Department; a Diagnostic Accuracy Study.,2017,,,Classification,Classification,,,ESI,2
+Stage 5,Disposition,ICU Admission,,,,3,,Feng et al,A novel artificial intelligence-assisted triage tool to aid in the diagnosis of suspected COVID-19 pneumonia cases in fever clinics,2021,,,,,,Prediction of pnuemonia,,1
+Stage 5,Disposition,ICU Admission,Admission,,,1,,Fenn et al,Development and Validation of Machine Learning Models to Predict Admission From Emergency Department to Inpatient and Intensive Care Units.,2021,,,,,Monitoring,ICU Admission,,2
+Stage 5,Disposition,ICU Admission,Mortality,,,3,,Fernandes et al,Predicting Intensive Care Unit admission among patients presenting to the emergency department using machine learning and natural language processing.,2020,,,,,,ICU Admission,MTS,1
+Stage 5,Disposition,Predicting Reattendance,,,,1,,Fernandes et al,Risk of mortality and cardiopulmonary arrest in critical patients presenting to the emergency department using machine learning and natural language processing,2020,,,,,,Predicting mortality and cardiopulmonary arrest,MTS,1
+Stage 5,Disposition,Predicting location of Admission,,,,1,,Fu-Sheng Tsai et al,Embedding Stacked Bottleneck Vocal Features in a LSTM Architecture forAutomatic Pain Level Classification during Emergency Triage,2017,,Pain estimation,Pain estimation,Pain estimation,,,TTAS,3
+Stage 5,Disposition,Predicting neuroscience ICU admission,,,,1,,Fyntanidou et al,IoT-based smart triage of Covid-19 suspicious cases in the Emergency Department,2020,,,,Collecting vitals,Monitoring,,,2
+Stage 5,Disposition,Predicting STEMI,,,,1,,Garrafa et al,"Early prediction of in-hospital death of COVID-19 patients: A machine-learning model based on age, blood analyses, and chest x-ray score",2022,,,,,,Predicting mortality,,1
+Stage 5,Disposition,Admission,ICU Admission,Mortality,,1,,Goto et al,Machine learning approaches for predicting disposition of asthma and COPD exacerbations in the ED.,2018,,,,,,Predicting disposition,ESI,1
+Stage 5,Disposition,Admission,ICU Admission,Mortality,Emergency procedure,1,,Goto et al,Machine learning–based prediction of clinical outcomes for children during emergency department triage,2019,,,,,,Predicting disposition,ESI,1
+Stage 5,Disposition,ICU Admission,Ventilator use,Mortality,,1,,Graham et al,Using Data Mining to Predict Hospital Admissions from the Emergency Department,2018,,,,,,Predicting admission,,1
+Stage 5,Disposition,ICU Admission,Cardiac Arrest,Mortality,,1,,Halpern et al,Electronic medical record phenotyping using the anchor and learn framework,2016,,,Classification,Classification,Analysis,Treatment suggestion,Patient Phenotype,4
+Stage 5,Diagnostic,Diagnosis,Treatment,,,1,,Hong et al,Predicting hospital admission at emergency department triage using machine learning,2018,,,,,,Predicting admission,,1
+Stage 5,Diagnostic,Sepsis prediction,,,,4,,Horng et al,Creating an automated trigger for sepsis clinical decision support at emergency department triage using machine learning.,2017,,,,,,Predicting sepsis,,1
+Stage 5,Diagnostic,Predicting adverse outcomes,,,,4,,Hwang et al,Machine learning-based prediction of critical illness in children visiting the emergency department.,2022,,,,,,Predicting critical illness and hospitalisation,pedKTAS,1
+Stage 5,Diagnostic,Predicting bacteremia,,,,1,,Ivanov et al,Improving ED Emergency Severity Index Acuity Assignment Using Machine Learning and Clinical Natural Language Processing.,2021,,,Classification,Classification,,,ESI,2
+Stage 5,Diagnostic,Predicting diagnosis,,,,4,,Jiang et al,Machine learning-based models to support decision-making in emergency department triage for patients with suspected cardiovascular disease,2021,,,Classification,Classification,,,CETS,2
+Stage 5,Diagnostic,Predicting COVID-19,,,,3,,Joseph et al,Deep‐learning approaches to identify critically Ill patients at emergency department triage using limited information,2020,,,,,,Disposition,,1
+Stage 5,Diagnostic,Predicting stroke,,,,1,,Kerr et al,Human vital sign determination using tactile sensing and fuzzy triage system,2021,,,,Collecting vitals,Monitoring,,,2
+Stage 5,Diagnostic,Predicting myocardial infarction,,,,1,,Kijpaisaratana et al,Machine learning algorithms for early sepsis detection in the emergency department: A retrospective study,2022,,,,,,Predicting sepsis,,1
+Stage 5,Diagnostic,Predicting septic shock,,,,1,,Kim et al,A Retrospective Clinical Evaluation of an Artificial Intelligence Screening Method for Early Detection of STEMI in the Emergency Department.,2022,,,,,,Predicting STEMI,,1
+Stage 5,Diagnostic,Predict pnuemonia,,,,1,,Kim et al,Machine learning for prediction of septic shock at initial triage in emergency department,2020,,,,,,Predicting sepsis,,1
+Stage 5,Triage,Identifying mistriage,,,,1,,Klang et al,"Predicting adult neuroscience intensive care unit admission from emergency department triage using a retrospective, tabular-free text machine learning approach",2021,,,,,,Predicting neurosciences intesive care unit admission,,1
+Stage 5,Treatment,Treatment,,,,1,,Klang et al,Promoting head CT exams in the emergency department triage using a machine learning model,2020,,,,,Suggesting Head CT Scan,,Novel,2
+Stage 5,Mortality,Predicting mortality,,,,6,,Klug et al,A Gradient Boosting Machine Learning Model for Predicting Early Mortality in the Emergency Department Triage: Devising a Nine-Point Triage Score.,2020,,,Classification,Classification,,Predicting mortality,Novel,4
+Stage 5,Mortality,Predicting mortality,Cardiopulmoary arrest,,,1,,Kwon et al,Validation of deep-learning-based triage and acuity score using a large national dataset,2018,,,Acuity score,Acuity score,,"predicting in-hospital mortality, critical care, and hospitalization",Novel,3
+,,,,,,,,Lee et al,Chief complaint classification with recurrent neural networks,2019,,,,,,predicting diagnostic codes,,1
+,,,,,,,,Lee et al,Prediction of hospitalization using artificial intelligence for urgent patients in the emergency department,2021,,,,,,Predicting admission,,1
+,,,,,,,,Lee et al,Predicting outcomes after trauma: Prognostic model development based on admission features through machine learning.,2021,,,,,,Predicting mortality,,1
+,,,,,,,,Leung et al,A Novel Interpretable Deep-Learning-Based System for Triage Prediction in the Emergency Department: A Prospective Study,2021,,,,,,Predicting admission,,1
+,,,,,,,,Levin et al,Machine-Learning-Based Electronic Triage More Accurately Differentiates Patients With Respect to Clinical Outcomes Compared With the Emergency Severity Index,2017,,,,,,"predicting critical care, hospitalization and emergency procedure",Levin E-triage,1
+,,,,,,,,Li et al,Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization,2021,,,,,,Predicting admission,,1
+,,,,,,,,Lin et al,Abnormal diagnosis of Emergency Department triage explored with data mining technology: An Emergency Department at a Medical Center in Taiwan taken,2019,,,Classification,Classification,,,ATS,3
+,,,,,,,,Lin et al,Machine learning model to identify sepsis patients in the emergency department: Algorithm development and validation,2021,,,,,,Predicting sepsis,,1
+,,,,,,,,Liu et al,Development and validation of a practical machine-learning triage algorithm for the detection of patients in need of critical care in the emergency department.,2021,,,,,,Identifying mis-triage,,1
+,,,,,,,,Liu et al,Prediction of adverse cardiac events in emergency department patients with chest pain using machine learning for variable selection,2014,,,,,,Predicting adverse outcomes,,1
+,,,,,,,,Lorenzoni et al,Analysis of Unstructured Text-Based Data Using Machine Learning Techniques:  The Case of Pediatric Emergency Department Records in Nicaragua,2021,,,,,,Predicting diagnosis,,1
+,,,,,,,,Lupei et al,A 12-hospital prospective evaluation of a clinical decision support prognostic algorithm based on logistic regression as a form of machine learning to facilitate decision making for patients with suspected COVID-19.,2022,,,,,,Predicting disposition,,1
+,,,,,,,,Michalowski et al,Development of a decision algorithm to support emergency triage of scrotal pain and its implementation in the met system,2005,,,,,,Suggesting disposition,,1
+,,,,,,,,Moghbeli et al,Expert triage system in cardiology emergency department,2018,,,Classification,Classification,,,ESI,3
+,,,,,,,,Nanda et al,Performance of a new symptom checker in patient triage: Canadian cohort study,2019,,,Filtering rare case for manual review,,,Predicting diagnosis,,2
+,,,,,,,,Olivia et al,Machine learning based electronic triage for emergency department,2018,,,Classification,Classification,,,,2
+,,,,,,,,Olszewski et al,Bayesian Classification of Triage Diagnoses for the Early Detection of Epidemics.,2003,,,,,,Predicting diagnosis,,1
+,,,,,,,,Parker et al,Predicting hospital admission at the emergency department triage: a novel prediction model,2019,,,,,,Predicting admission,,1
+,,,,,,,,Patel et al,A Machine Learning Approach to Predicting Need for Hospitalization for Pediatric Asthma Exacerbation at the Time of Emergency Department Triage.,2018,,,,,,Predicting admission,,1
+,,,,,,,,Pathan et al,Qatar Prediction Rule Using ED Indicators of COVID-19 at Triage,2020,,,,,,predicting COVID-19,,1
+,,,,,,,,Raita et al,Emergency department triage prediction of clinical outcomes using machine learning models.,2019,,,,,,Predicting disposition,,1
+,,,,,,,,Rendell et al,The Sydney Triage to Admission Risk Tool (START2) using machine learning techniques to support disposition decision-making,2019,,,,,,predicting admission,,1
+,,,,,,,,Roquette et al,Prediction of admission in pediatric emergency department with deep neural networks and triage textual data,2020,,,,,,Predicting admission,,1
+,,,,,,,,Sax et al,Use of Machine Learning to Develop a Risk-Stratification Tool for Emergency Department Patients With Acute Heart Failure.,2021,,,,,,Predicting adverse outcomes,,1
+,,,,,,,,Scheder-Bieschin et al,Improving Emergency Department Patient-Physician Conversation Through an Artificial Intelligence Symptom-Taking Tool: Mixed Methods Pilot Observational Study.,2022,,Administrative,Symptom and history collection,,,,,2
+,,,,,,,,Sills et al,Predicting hospitalization of pediatric asthma patients in emergency departments using machine learning,2021,,,,,,Predicting hospitalisation,,1
+,,,,,,,,Sivakumar et al,The impact of humanoid robot presence in the paediatric emergency department waiting room: A prospective cohort study.,2021,Explanation to caregivers and dancing,,,,,,,1
+,,,,,,,,Soltan et al,Rapid triage for COVID-19 using routine clinical data for patients attending hospital: development and prospective validation of an artificial intelligence screening test,2021,,,,,,Predicting COVID 19,,1
+,,,,,,,,Soltan et al,Real-world evaluation of rapid and laboratory-free COVID-19 triage for emergency care: external validation and pilot deployment of artificial intelligence driven screening,2022,,,,,,Predicting COVID 19,,1
+,,,,,,,,Soufi et al,Decision support system for triage management: A hybrid approach using rule-based reasoning and fuzzy logic,2018,,,Classification,Classification,,,ESI,2
+,,,,,,,,Stella et al,Prediction of Resuscitation for Pediatric Sepsis from Data Available at Triage,2021,,,,,,Predicting adverse outcomes,,1
+,,,,,,,,Sterling et al,Prediction of emergency department patient disposition based on natural language processing of triage notes,2019,,,,,,Prediction of disposition,,1
+,,,,,,,,Sung et al,Developing a stroke alert trigger for clinical decision support at emergency triage using machine learning,2021,,,,,,Prediction of stroke,,1
+,,,,,,,,Tahayori et al,Advanced natural language processing technique to predict patient disposition based on emergency triage notes,2020,,,,,,Prediction of disposition,,1
+,,,,,,,,Than et al,Machine Learning to Predict the Likelihood of Acute Myocardial Infarction.,2019,,,,,,Predicting myocardial infarction,,1
+,,,,,,,,Trivedi et al,A Comparison Between Computer-Assisted Self-Triage by Patients and Triage Performed by Nurses in the Emergency Department,2021,,,Classification,,,,CTAS,1
+,,,,,,,,Tsai et al,Development and Validation of an Artificial Intelligence Electrocardiogram Recommendation System in the Emergency Department,2022,,,,,Recommending electrocardiagram,,,1
+,,,,,,,,Wang et al,Construct an Optimal Triage Prediction Model: A Case Study of the Emergency Department of a Teaching Hospital in Taiwan,2013,,,Classification,Classification,,,ATS,2
+,,,,,,,,Wolff et a,Setting up standards: A methodological proposal for pediatric Triage machine learning model construction based on clinical outcomes,2019,,,Classification,Classification,,,EGCH,2
+,,,,,,,,Wu et al,A machine learning model to predict critical care outcomes in patient with chest pain visiting the emergency department.,2021,,,,,,Predicting disposition,,1
+,,,,,,,,Yao et al,A Novel Deep Learning–Based System for Triage in the Emergency Department Using Electronic Medical Records: Retrospective Cohort Study,2021,,,Classification,Classification,,Predicting hospitalisation,ESI,4
+,,,,,,,,Yao et al,A System for Predicting Hospital Admission at Emergency Department Based on Electronic Health Record Using Convolution Neural Network,2020,,,Classification,Classification,,Predicting hospitalisation,ESI,4
+,,,,,,,,Wang et al,DeepTriager: A Neural Attention Model forEmergency Triage with Electronic Health Records,2019,,,Classification,Classification,,,NEWS/MEWS,2
+,,,,,,,,Yu et al,Machine Learning and Initial Nursing Assessment-Based Triage System for Emergency Department.,2020,,,Classification,Classification,,Predicting disposition,KTAS and SOFA,3
+,,,,,,,,Yu et al,Triage vital signs predict in-hospital mortality among emergency department patients with acute poisoning: a case control study,2012,,,,,,Predicting mortality,,1
+,,,,,,,,Yun et al,"Enhancement in Performance of Septic Shock Prediction Using National Early Warning Score, Initial Triage Information, and Machine Learning Analysis",2021,,,,,,Predicting septic shock,,1
+,,,,,,,,Yun et al,Prediction of critical care outcome for adult patients presenting to emergency department using initial triage information: An XGBoost algorithm analysis,2021,,,,,,Predicting disposition,,1
+,,,,,,,,Zhu et al,Deep-learning artificial intelligence analysis of clinical variables predicts mortality in COVID-19 patients.,2020,,,,,,Predicting mortality,,1
+,,,,,,,,Zmiri et al,Classification of patients by severity grades during triage in the emergency department using data mining methods,2010,,,Classification,Classification,,,CTS,2
+,,,,,,,,,,Papers/Stage,1,2,28,26,7,67,,
+,,,,,,,,,92,,,,,,,,,
